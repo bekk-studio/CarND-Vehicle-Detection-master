@@ -38,7 +38,7 @@ A well written README file can enhance your project and portfolio.  Develop your
 
 ## Comparison with a Deep Neural Network
 
-![Comparison]./output_images/cv-l2-4.1.001.png
+![Comparison](./output_images/cv-l2-4.1.001.png)
 
 A traditional Computer Vision pipeline for object detection typically consists of separate processing stages, for instance, feature extraction, spatial sampling and classification. Different algorithms and techniques can be applied for these stages, and the parameters for each stage are usually tuned by hand.
 
@@ -184,7 +184,7 @@ Ultimately I searched on three scales using HSB 3-channel HOG features plus spat
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
 
-![video]./output_project_video.gif
+![video](./output_project_video.gif)
 
 I try to perform my pipeline on other challenge video of project 4.
 
